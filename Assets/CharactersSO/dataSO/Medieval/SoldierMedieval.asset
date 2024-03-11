@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4423b0a0b567f344ab0c262f7aefbb20, type: 3}
+  m_Name: SoldierMedieval
+  m_EditorClassIdentifier: 
+  hpMax: 120
+  hpNow: 120
+  dmg: 40
+  attackRange: 6
+  attackSpeed: 1.5
+  movementSpeed: 9
+  standDistance: 5
+  spawnTime: 1
+  goldToDrop: 150
+  expToDrop: 250
+  goldToBuy: 250
